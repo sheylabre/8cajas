@@ -11,8 +11,9 @@
 .cuadro1{
 	border: 1px solid;
 	background-color: #808080;
-	padding: 50px 10px;
-	display: inline-block;
+	width: 375px;
+	height: 125px;
+	display: block;
 	position: relative;
 	left: 10px;
 	
@@ -21,21 +22,31 @@
 .c1{
 	border: 1px solid;
 	background-color: #808080;
-	padding: 40px;
-	display: inline;
+	display: inline-block;
 	margin: 10px;
+	width: 100px;
+	height: 100px;
 
 }
 
 .cuadro2{
 	border: 1px solid;
 	background-color: #808080;
-	display: block;
+	display: inline-block;
+	margin: 10px;
+	width: 100px;
+	height: 100px;
+
+}
+
+.cuadro3{
+	border: 1px solid;
+	background-color: #808080;
+	display: inline-block;
 	margin: 10px;
 	width: 100px;
 	height: 100px;
 }
-
 
 .cd{
 	border: 1px solid;
